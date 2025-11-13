@@ -13,6 +13,13 @@
 // 4. Shahbaz
 // Q: Add your isEven function here
 
+function isEven(num) {
+  return num % 2 === 0;
+}
+
+console.log(isEven(45));
+console.log(isEven(12));
+
 
 // 5. Rahul
 // Q: Add your countVowels function here
